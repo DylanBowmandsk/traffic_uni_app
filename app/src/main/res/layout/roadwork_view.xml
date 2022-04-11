@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bowman Dylan s1909583 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="40px">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="300px"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="200px"
+        android:text="test"/>
+
+    <TextView
+        android:id="@+id/start_date"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="100px"
+        android:text="test"/>
+
+    <TextView
+        android:id="@+id/end_date"
+        android:layout_width="200px"
+        android:layout_height="wrap_content"
+        android:text="test" />
+</LinearLayout>
